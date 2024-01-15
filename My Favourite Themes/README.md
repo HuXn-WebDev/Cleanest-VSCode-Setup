@@ -13,11 +13,23 @@ https://marketplace.visualstudio.com/items?itemName=lakshits11.best-themes-redef
 Monokai Pirokai 👉
 https://marketplace.visualstudio.com/items?itemName=lakshits11.monokai-pirokai
 
+Elizabeth Báthory theme 👉
+https://marketplace.visualstudio.com/items?itemName=Coachonko.elizabeth-color-theme&ssr=false#review-details
+
+Lapis 👉
+https://marketplace.visualstudio.com/items?itemName=Coachonko.elizabeth-color-theme&ssr=false#review-details
+
 Vivid Black 👉
 https://marketplace.visualstudio.com/items?itemName=AsmRaihan.vivid-black
 
 Dark Vision 👉
 https://marketplace.visualstudio.com/items?itemName=jozef.dark-vision
+
+Winter Pearl Theme 👉
+https://marketplace.visualstudio.com/items?itemName=suryashanm.winter-pearl-theme&ssr=false#review-details
+
+Andromeda 👉
+https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda&ssr=false#review-details
 
 Ayu 👉
 https://marketplace.visualstudio.com/items?itemName=teabyii.ayu
